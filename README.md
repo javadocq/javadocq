@@ -66,6 +66,6 @@
 ### 📫 Contact
 - Email: han18264@naver.com
 - LinkedIn: https://www.linkedin.com/in/%EC%A2%85%EC%9B%90-%EC%9D%B4-690349349/
-- Blog/Velog(선택): https://velog.io/@javadocq/posts
+- Blog/Velog: https://velog.io/@javadocq/posts
 
 ---
