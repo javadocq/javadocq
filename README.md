@@ -1,9 +1,10 @@
 <!-- Title -->
 <h1 align="left">이종원 | Frontend Engineer (Hanyang ERICA)</h1>
 <p align="left">
-  책을 좋아하고, 사용자 경험을 좋아하는 3학년 개발자입니다.<br/>
-  멋쟁이사자처럼 한양대학교 ERICA 13기 대표로 활동하며 React/Next 기반 웹/ React Native 기반 앱을 만들고 있어요.
+  책을 좋아하고, 웹 개발을 좋아하는 대학생 3학년 이종원입니다.<br/>
+  React/Next 기반 웹/ React Native 기반 앱을 만들고 있어요.
 </p>
+
 
 <!-- Quick Links -->
 <p align="left">
@@ -13,6 +14,27 @@
 </p>
 
 ---
+
+### 🎓 Education
+- **서울공업고등학교** 졸업 (2019.02)  
+- **한양대학교 ERICA 컴퓨터학부** 재학 (2023.03 ~ ing)  
+
+---
+
+### 🏆 Awards History
+- **(교내) HY-THONE 대상** (2024.12)  
+- **(교외) 블레이버스 해커톤 대상** (2025.02)  
+
+---
+
+### 🚀 Activity
+- **ICT 보안 엔지니어 과정 수료 (KGITBANK)** (2020.03 ~ 2020.09)  
+- **멋쟁이사자처럼 대학 12기** 프론트엔드 파트 (2024.03 ~ 2024.12)  
+- **멋쟁이사자처럼 대학 13기** 학교 대표 (2024.03 ~ ing)  
+- **디프만 17기** Web 파트 (2025.07 ~ ing)   
+
+---
+
 
 ### 🧰 Tech Stack
 - **Frontend**: React, Next.js, React Native, TypeScript  
