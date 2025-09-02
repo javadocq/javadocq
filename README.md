@@ -16,7 +16,7 @@
 
 ### 🧰 Tech Stack
 - **Frontend**: React, Next.js, React Native, TypeScript  
-- **Styling**: Styled-Components, Tailwind CSS, Emotion
+- **Styling**: Styled-Components, Tailwind CSS
 - **Build/Deploy**: WebPack, Next.js Build, Vercel  
 - **Collab**: Git/GitHub, Issues/PR, Conventional Commits, Notion, Jira
 - **Etc**: REST API, 반응형 UI, Async/await
