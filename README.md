@@ -30,8 +30,9 @@
 ### 🚀 Activity
 - **ICT 보안 엔지니어 과정 수료 (KGITBANK)** (2020.03 ~ 2020.09)  
 - **멋쟁이사자처럼 대학 12기** 프론트엔드 파트 (2024.03 ~ 2024.12)  
-- **멋쟁이사자처럼 대학 13기** 학교 대표 (2024.03 ~ ing)  
-- **디프만 17기** Web 파트 (2025.07 ~ ing)   
+- **멋쟁이사자처럼 대학 13기** 학교 대표 (2025.03 ~ ing)
+- **구름톤 4기** 미르미 (2025.03 ~ 2025.10)
+- **디프만 17기** Web 파트 (2025.07 ~ 11)   
 
 ---
 
@@ -51,7 +52,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=white" />
-  <img src="https://img.shields.io/badge/Emotion-D26AC2?logo=emotion&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
 </p>
