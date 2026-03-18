@@ -37,7 +37,6 @@
 - **Web/Mobile**: React, Next.js, React Native, TypeScript, Zustand, TanStack Query
 - **Desktop/System (Learning)**: **C++, C#, WPF, Windows Forms**
 - **Infrastructure/Collab**: Git/GitHub, Vercel, Jira, Conventional Commits
-- **Preparing**: 산업안전기사 (2026.04 자격 취득 예정)
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
@@ -70,10 +69,6 @@
 - **데이터 구조화**: 서버 비용 절감을 위해 **SQLite** 도입, 대량의 독서 기록과 메모를 관계형 DB로 구조화하여 관리
 - **실시간 데이터 제어**: Zustand로 스톱워치 타이머와 설정값의 데이터 흐름을 관리해 불필요한 리렌더링 방지
 - **네이티브 제어**: Expo Bare Workflow를 통해 네이티브 모듈 제어권 확보 및 AdMob 연동, 앱스토어 심사 전 과정 수행
-
-#### 🛠 Digimon Masters Fan Tool (In Progress)
-> **C# / WPF / MVVM Pattern**
-- C#과 WPF를 활용하여 게임 데이터 관리 및 편의 기능을 제공하는 데스크탑 유틸리티 개발 중
 
 ---
 
