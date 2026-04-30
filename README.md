@@ -74,8 +74,7 @@
 
 ### 📝 What I’m focusing on
 - **Desktop Architecture**: WPF의 MVVM 패턴을 통한 유지보수성 높은 GUI 설계
-- **System Programming**: C++를 활용한 효율적인 메모리 관리와 알고리즘 학습
-- **Industrial Safety**: 엔지니어로서의 책임감을 위한 산업안전 지식 함양 (4월 시험 목표)
+- **Scalable Frontend Architecture** : 재사용 가능한 컴포넌트 설계와 효율적인 상태 관리를 통한 확장성 있는 프론트엔드 구축
 
 ---
 
