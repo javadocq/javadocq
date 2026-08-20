@@ -99,6 +99,7 @@
 - 관리자·작업자별 업무 흐름을 반영한 대시보드와 생산 실행 화면 설계
 - SignalR 이벤트 수신 후 TanStack Query 데이터를 갱신하는 실시간 동기화 흐름 구현
 - Entity Framework Core Code First 기반 관계형 데이터 모델 구성
+- Kepware에서 Device·Tag를 구성하고 OPC UA 통신을 통해 설비 데이터 연동 환경 구현
 
 ### 🍚 밥토리
 
